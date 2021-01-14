@@ -4,12 +4,12 @@
 
 ### Quick Facts ✨
 
-- 🔭 I’m currently working on a ecommerce website. I am using react, firebase and node as technology stack.
-- 🌱 I’m currently learning node js for better graps on server side. And planing to learn React Native in near future.
-- 👯 I’m looking to collaborate on any project but as currently I am busy in developing the ecommerse website.
+- 🔭 **I’m currently working** on a ecommerce website. I am using react, firebase and node as technology stack.
+- 🌱 **I’m currently learning** node js for better graps on server side. And planing to learn React Native in near future.
+- 👯 **I’m looking to** collaborate on any project, but currently I am busy in developing the ecommerse website.
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase. I am happy to help from my knowledge 😜😌.
-- 📫 How to reach me: pavelray31@outlook.com
+- 💬 **Ask me about** anything related to JS, React, Redux, Firebase. I am happy to help from my knowledge 😜😌.
+- 📫 **How to reach me**: pavelray31@outlook.com
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
