@@ -1,13 +1,9 @@
-### Hi there 👋 I'm [Pavel](https://github.com/pavelrayg) 👨‍💻
+## Hi there 👋 I'm [Pavel](https://github.com/pavelrayg) 👨‍💻
 <br />
 <br/>
-<p>
-  I have total 6 years of experience in web develoment. I started my career as a .Net full stack developer and later moved into front-end development.
-</p>
-<!--
-**pavelray/pavelray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### ✨ Quick Facts
+###  I have total 6 years of experience in web develoment. I started my career as a .Net full stack developer and later moved into front-end development.
+
+### Quick Facts ✨
 
 - 🔭 I’m currently working on a ecommerce website. I am using react, firebase and node as technology stack.
 - 🌱 I’m currently learning node js for better graps on server side. And planing to learn React Native in near future.
@@ -19,10 +15,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019669/screenshots/3210950/psi-avatars.png" />
+<img align="right" alt="cool image" src="https://cdn.dribbble.com/users/1019669/screenshots/3210950/psi-avatars.png" width="40px" height-"60px" />
   
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:  🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
