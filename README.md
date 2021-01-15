@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Pavel](https://github.com/pavelrayg) 👨‍💻
 #####  I have total **6 years** of experience in ***web develoment***. I started my career as a ***.Net full stack developer*** and later moved into ***front-end development***.
-<img align="center" alt="cool image" src="https://cdn.dribbble.com/users/1019669/screenshots/3210950/psi-avatars.png" />
+<img align="center" alt="cool image" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80" />
 
 ### Quick Facts ✨
 
