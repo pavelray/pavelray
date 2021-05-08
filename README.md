@@ -1,15 +1,14 @@
 ## Hi there 👋 I'm [Pavel](https://github.com/pavelray) 👨‍💻
-#####  I have total **6 years** of experience in ***web develoment***. I started my career as a ***.Net full stack developer*** and later moved into ***front-end development***.
-<img align="center" alt="cool image" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80" />
+#####  I have total **7 years** of experience in ***web develoment***. I started my career as a ***.Net full stack developer*** and later moved into ***front-end development***.
 
 ### Quick Facts ✨
 
-- 🔭 **I’m currently working** on a ecommerce website [Nutsnseeds](https://github.com/pavelray/nutsnseeds-demo). I am using react, firebase and node as technology stack.
+- 🔭 **I’m currently working** on a ecommerce website [Nutsnseeds](https://github.com/pavelray/nutsnseeds-demo). I have used react, firebase and node as technology stack. Working on creating a api for backend process in Node.js and seperate the frontend.
 - 🌱 **I’m currently learning** node js for better graps on server side. And planing to learn React Native in near future.
-- 👯 **I’m looking to** collaborate on any project, but currently I am busy in developing the ecommerse website.
+- 👯 **I’m looking to** collaborate on any project. 
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 **Ask me about** anything related to JS, React, Redux, Firebase. I am happy to help from my knowledge 😜😌.
-- 📫 **How to reach me**: pavelray31@outlook.com
+- 📫 **How to reach me**: For any collaboration / work you can reach me at pavelray31@outlook.com.
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
