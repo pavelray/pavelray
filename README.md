@@ -1,4 +1,7 @@
 [![HitCount](http://hits.dwyl.com/pavelray/pavelray.svg)](http://hits.dwyl.com/pavelray/pavelray)
+
+![](https://komarev.com/ghpvc/?username=pavelray&color=yellow)
+
 ## Hi there 👋 I'm [Pavel](https://github.com/pavelray) 👨‍💻
 #####  I have total **7 years** of experience in ***web develoment***. I started my career as a ***.Net full stack developer*** and later moved into ***front-end development***.
 
