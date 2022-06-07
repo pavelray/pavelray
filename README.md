@@ -8,7 +8,7 @@
 - 👯 **I’m looking to** collaborate on any project. 
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 **Ask me about** anything related to JS, React, Redux, Firebase. I am happy to help from my knowledge 😜😌.
-- 📫 **How to reach me**: For any collaboration / work you can reach me at pavelray31@outlook.com.
+- 📫 **How to reach me**: For any collaboration / work you can reach me at pavel.jobs@gmail.com.
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
