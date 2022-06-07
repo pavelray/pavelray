@@ -13,6 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=pavelray&show_icons=true&theme=tokyonight)](https://github.com/pavelray)
+
 ### Languages and Tools:  🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
