@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/pavelray/pavelray.svg)](http://hits.dwyl.com/pavelray/pavelray)
 
 ![](https://komarev.com/ghpvc/?username=pavelray&color=yellow)
 
